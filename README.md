@@ -55,6 +55,9 @@
 #### 브랜치 변경후 해당파일을 Working directory에 복사
         git checkout [변경하고자하는 브랜치명]
 
+#### githun token값 
+        https://'토큰값'@github.com 으로 프로젝트 소스트리에 설정해주면됨.
+        
 
         
     
