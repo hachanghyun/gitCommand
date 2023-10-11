@@ -25,7 +25,7 @@
     git remote add origin <조금 전 repository에서 복사한 주소>
 
 #### 커밋한 파일을 push (git push [저장소이름] [브랜치이름])
-    git push origin master
+    git push origin main(master)
     
 ## 2. 기타 git 명령어 
 
