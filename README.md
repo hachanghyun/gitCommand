@@ -32,7 +32,7 @@
 #### remote의 commit을 가져오고 병합 (git fetch + git merge)
         git pull
 
-#### 사용자 성정 정보 확인
+#### 사용자 설정 정보 확인
         git config --list
 
 #### 사용자 이름 , Email 설정
