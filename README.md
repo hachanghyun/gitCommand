@@ -5,7 +5,7 @@
 #### 깃허브에 들어가서 repository 새로 생성한다. (단. Read.ME 만들지말것!!! 나중에 commit할때 충돌남!!) 
 
 #### 생성후 repository 주소 복사한다.
-    https://github.com/hachanghyun/chatGptLottoWebView.git
+    https://github.com/hachanghyun/chatGptLottoWebView.git 
 
 #### 기존작업중인 프로젝트 디렉토리안에 들어간다 (일반폴더에서 git 저장소로 변환)
     git init 
