@@ -2,7 +2,7 @@
 
 ## 1. 기존에 작업하던 프로젝트 github에 올리는법 
 
-#### 깃허브에 들어가서 repository 새로 생성한다. (단. Read.ME 만들지말것!!! 나중에 commit할때 충돌남!!) 
+#### 깃허브에 들어가서 repository 새로 생성한다. (단. Read.ME 만들지말것!!! 나중에 commit할때 충돌남!!)  
 
 #### 생성후 repository 주소 복사한다.
     https://github.com/hachanghyun/chatGptLottoWebView.git 
